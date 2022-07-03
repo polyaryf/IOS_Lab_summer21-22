@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "B2853D7E-6D06-4AD6-9665-924A0B61F253"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8E594C94-B9FB-40DE-9392-824E3CAD0042"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HomeWork2/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "AuthViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "8E594C94-B9FB-40DE-9392-824E3CAD0042 - 941e0d25eeefb26f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HomeWork2.AuthViewController.yourPhoneLabel.getter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "HomeWork2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/polinom/Repositories/HomeWork2/HomeWork2/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "8E594C94-B9FB-40DE-9392-824E3CAD0042 - adf80c5d62d94e5b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HomeWork2.AuthViewController.yourPhoneLabel.setter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "HomeWork2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/polinom/Repositories/HomeWork2/HomeWork2/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "8E594C94-B9FB-40DE-9392-824E3CAD0042 - 47e208dab22e4b6c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HomeWork2.AuthViewController.yourPhoneLabel.modify : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "HomeWork2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/polinom/Repositories/HomeWork2/HomeWork2/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "8E594C94-B9FB-40DE-9392-824E3CAD0042 - b1397b75c2bc95c2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HomeWork2.AuthViewController.yourPhoneLabel.modify : Swift.Optional&lt;__C.UILabel&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "HomeWork2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/polinom/Repositories/HomeWork2/HomeWork2/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "8E594C94-B9FB-40DE-9392-824E3CAD0042 - 9dd0927f3ed89a05"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HomeWork2.AuthViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; HomeWork2.AuthViewController"
+                  moduleName = "HomeWork2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/polinom/Repositories/HomeWork2/HomeWork2/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "116">
+               </Location>
+               <Location
+                  uuid = "8E594C94-B9FB-40DE-9392-824E3CAD0042 - 2a2b69660509b5ca"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HomeWork2.AuthViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;HomeWork2.AuthViewController&gt;"
+                  moduleName = "HomeWork2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/polinom/Repositories/HomeWork2/HomeWork2/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "92">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
